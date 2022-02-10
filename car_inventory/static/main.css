@@ -1,0 +1,33 @@
+/*Nav Styles */
+.tj-nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+ul#horizontal-list{
+    min-width: 696px;
+    list-style: none;
+    padding-top: 20px;
+}
+
+ul#horizontal-list li, ul#horizontal-list a{
+    display:inline;
+    text-decoration:none;
+    padding: 0.5vw;
+    color:black;
+}
+
+.header-image{
+    width: 82%;
+    max-width: 100%;
+}
+
+#jalopybois{
+    margin-bottom: 10vh;
+    width: 82%;
+    max-width: 100%;
+}
+
+#features-section{
+    margin: 8vw;
+}
